@@ -62,3 +62,9 @@ This investigation focused on performing passive reconnaissance and open-source 
 ## 💡 Key Takeaways
 1. **Cross-Platform Pivoting:** Text-based contextual leads on discussion forums (Reddit) often provide the necessary context to filter visual intelligence on video platforms (TikTok).
 2. **SOCMINT to GEOINT:** Short-form video platforms contain rich unstructured geolocation data (backgrounds, ambient lighting, signage) useful for physical location correlation.
+
+
+
+
+
+![Візуалізація розслідування](./visualization.png)
