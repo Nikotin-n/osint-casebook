@@ -55,7 +55,7 @@ This investigation focused on performing passive reconnaissance and open-source 
 | **Registered Platforms** | Reddit, TikTok *(and other detected platforms)* |
 | **Primary Active Profile** | **TikTok** (`@bluefox_404`) |
 | **Core Interests** | Cosplay, "Phantom Cat" subculture |
-| **2024 Club Location** | `[ Встав назву та адресу клубу тут ]` |
+| **2024 Club Location** | `[  113 Eglin Pkwy SE, Fort Walton Beach, FL 32548, United States (https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.google.com/maps/search/?api%3D1%26query%3DThe%2BBlock%2B113%2BEglin%2BPkwy%2BSE%2BFort%2BWalton%2BBeach%2BFL%2B32548%2Baddress&ved=2ahUKEwitiOSmn7qXAxUaGBAIHebyE1IQy_kOegYIAAgYEAM&opi=89978449&cd&psig=AOvVaw26yMJjvxV9LyQqAyPrylaV&ust=1792092597757000) ]` |
 
 ---
 
