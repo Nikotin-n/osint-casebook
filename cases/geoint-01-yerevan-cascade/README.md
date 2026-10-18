@@ -7,7 +7,7 @@
 
 ## 📌 Target Image
 <!-- Сюди перетягни файл фотографії -->
-![Yerevan Cascade Photo](Geoint1.jpg)
+![Yerevan Cascade Photo](Geoint1.png)
 
 ---
 
