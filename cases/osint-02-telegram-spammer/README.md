@@ -42,7 +42,7 @@ Through standard telephone number pivot techniques, social media channel partici
 2. **Positive Match Identified:** Located a personal Telegram profile belonging to a member of the channel whose profile picture matched the exact WhatsApp avatar (eyes/face snippet).
 
 <p align="center">
-  <img src="../assets/image.png" alt="Visual correlation and avatar comparison" width="700">
+  <img src="osint2.png" alt="Visual correlation and avatar comparison" width="700">
 </p>
 
 3. Confirmed this account to be the primary personal identity of the subject.
